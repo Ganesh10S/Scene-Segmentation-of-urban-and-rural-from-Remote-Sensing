@@ -12,7 +12,7 @@ Background-Red
 
 Low Vegetation-Skyblue
 
-Imprevious Surfaces-White
+Roads -White
 
 DATASET
 
